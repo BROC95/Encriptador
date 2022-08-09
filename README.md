@@ -15,7 +15,7 @@ Also see other cotribute [contributors](https://github.com/BROC95/notas-colegio/
 </div></blockquote>
 <blockquote>
 <div><a class="reference external image-reference" href="https://orcid.org/
-0000-0003-1237-3173"><img alt="https://orcid.org/assets/vectors/orcid.logo.icon.svg" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg "width="12" height="12" /></a>
+0000-0003-1237-3173"><img alt="" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg "width="12" height="12" /></a>
  Breyner Ocampo C.</div> </blockquote>
 
 
