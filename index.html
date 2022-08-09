@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <img src="img/alura-2.jpg" class = "logo2">
+    <link rel="stylesheet" href="style.css">
+    <title>Encriptador</title>
+</head>
+<body>
+<div>
+    <input type="text"  class="ingrese" id="textInp" value="Ingrese texto" onclick="if(this.value=='Ingrese texto') this.value='' " >
+    <h2 class="aviso"> &#9888 Solo letras minúsculas y sin acentos </h2>
+    <input class="encriptar" type="button" onclick="encript()" value="Encriptar">
+    <input class="desencriptar" type="button" onclick="desencript()" value="Descencriptar">
+</div>
+
+<div id ="alura-1" class="logo" >
+    <img class = "img" src="img/alura-1.png" > <!-- img del logo -->
+</div>    
+    
+<textarea id ="resp" style = "display:none" class="respuesta" cols="25" rows="5" ></textarea> <!-- area de texto -->
+<input id = "btncopiar"class ="botoncopiar" type ="button" onclick= copiartexto() style = "display:none"   value = "Copiar text" >   <!-- boton de copiar el texto -->         
+
+</body>
+<script src="/Encriptador/main.js"></script>
+</html>
