@@ -77,10 +77,7 @@ Also see other cotribute [contributors](https://github.com/BROC95/notas-colegio/
 # Intro
 ## About The Project
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-
-Use the `BLANK_README.md` to get started.
+This project is a challenge of alura  latam beginner programmer, in this you had to encrypt or decrypt words with button and text.
 
 <!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
