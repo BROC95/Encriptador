@@ -152,7 +152,7 @@ Distributed under the MIT License. See [license.txt](https://github.com/BROC95/J
 
 Breyner Ocampo Cárdenas  - beorchoose.edu.95@gmail.com
 
-Project Link: [https://broc95.github.io/](https://broc95.github.io/Encriptador/)
+Project Link: [https://broc95.github.io/Encriptador/](https://broc95.github.io/Encriptador/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
