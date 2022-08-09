@@ -152,7 +152,7 @@ Distributed under the MIT License. See [license.txt](https://github.com/BROC95/J
 
 Breyner Ocampo Cárdenas  - beorchoose.edu.95@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://broc95.github.io/](https://broc95.github.io/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
